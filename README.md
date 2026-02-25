@@ -220,5 +220,3 @@ Beyond the referral discount and welcome bonus, Binance offers several ways to e
 The Binance referral code **47269192** is the current working code for Luxembourg in 2026. It provides a 20% lifetime discount on spot fees, 10% on futures, and up to $100 USDT in task-based welcome bonuses. Luxembourg residents have full access to Binance, including EUR deposits via SEPA, with the platform operating under the EU's MiCA transitional framework.
 
 🔗 **Register with the code applied:** [https://accounts.binance.com/register?ref=47269192](https://accounts.binance.com/register?ref=47269192)
-
-*Disclaimer: Cryptocurrency trading involves significant financial risk. The value of digital assets can fluctuate substantially, and you may lose part or all of your investment. This guide is provided for informational purposes only and does not constitute financial, tax, or legal advice. Always conduct your own research and consult a qualified professional before making investment decisions. Referral bonuses and fee discounts are subject to Binance's terms and conditions, which may change without prior notice.*
